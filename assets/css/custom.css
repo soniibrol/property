@@ -1,0 +1,53 @@
+body{
+	background-color: #fff;
+}
+
+#login-box{
+	width: 80%;
+	height: 60%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 20%;
+	margin-bottom: 20%;
+	padding: 10px;
+	background-color: #E7892D;
+	padding: 20px;
+}
+
+
+.header-login{
+	text-align: center;
+	font-weight: bold;
+	color: #fff;
+}
+
+.footer{
+	background-color: #E7892D;
+	color: #fff;
+	min-height: 50px;
+	position: fixed;
+	bottom: 0;
+	z-index: 2000;
+	text-align: center;
+	vertical-align: center;
+}
+
+.footer a{
+	color: #fff;
+}
+
+#content{ 
+	padding-top: 20px;
+}
+
+.gallery-items{
+	padding: 10px;
+}
+
+.teks-hijau{
+	color: green;
+}
+
+.teks-merah{
+	color: red;
+}
